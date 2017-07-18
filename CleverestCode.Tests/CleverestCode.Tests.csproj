@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{18D08252-0A0E-4216-83BB-FDA87B0C45FF}</ProjectGuid>
+    <ProjectGuid>{216FDFF5-E9D9-47B2-99F9-54F5372BD825}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>CleverestCode.Tests</RootNamespace>
@@ -53,7 +53,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\CleverestCode\CleverestCode.csproj">
-      <Project>{4D094370-6E86-4534-9F1D-E400CC69F2F5}</Project>
+      <Project>{75C83E11-09D2-4001-A487-E9D7BD007890}</Project>
       <Name>CleverestCode</Name>
     </ProjectReference>
   </ItemGroup>
