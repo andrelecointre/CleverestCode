@@ -3,3 +3,6 @@
 ################################################################################
 
 /CleverestCode/bin
+/CleverestCode/obj
+/CleverestCode.Tests/bin/Debug
+/CleverestCode.Tests/obj/Debug
